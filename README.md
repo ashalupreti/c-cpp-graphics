@@ -65,7 +65,7 @@ if you are using template with task and c_cpp_properties json file then you dire
 - All you code should o inside `src` and the task.json will build the .exe in `build` folder
 
 ```cmd
-turbographics
+C-Cpp-graphics
 ├───.vscode
 └───Home
     ├───build
@@ -74,7 +74,7 @@ turbographics
 
 - Get the template from the repo => [.vscode config](https://github.com/ashalupreti/c-cpp-graphics/tree/main/.vscode) which will contain `task.json`, `c_cpp_properties.json`
 
-![image](https://user-images.githubusercontent.com/66258652/133919065-0f524b26-cb2f-4aef-a19c-367a329188cd.png)
+![image](https://user-images.githubusercontent.com/90265701/206495618-aeafc032-bd06-4111-b5ed-3e347ed88cfc.png)
 
 ```cpp
 //create a file name it example.cpp or any other name with .cpp extension
