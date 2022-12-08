@@ -26,10 +26,6 @@ You could also try SFML. It has quite a following. You'll have a large community
 
 ---
 
-Now To set up graphics.h in vs code:
-
-- ReadME [MinGW & graphics.h setup](https://github.com/sagargoswami2001/Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
-
 ## files
 
 - [Graphics](./graphics.h)
