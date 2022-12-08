@@ -119,7 +119,7 @@ If your dont want to write that command again and again you can create [task.jso
 - Setup MingW 32 compiler path in environment variables.
 - Insert graphics.h and winbgim.h header file from the [`graphics file`](https://github.com/ashalupreti/c-cpp-graphics/blob/main/graphics.h)
   [`winbgim file`](https://github.com/ashalupreti/c-cpp-graphics/blob/main/winbgim.h)
-  [`libbgi file`](https://github.com/ashalupreti/c-cpp-graphics/blob/main/libbgi.a) in mingw include folder and libbgi.a file into lib sub folder of mingw folder that we've installed already
+  [`libbgi file`](https://github.com/ashalupreti/c-cpp-graphics/blob/main/libbgi.a) in mingw's include folder and libbgi.a file into lib folder of mingw folder that we've installed already
 
 ## Quick setup
 
