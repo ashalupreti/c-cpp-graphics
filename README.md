@@ -1,3 +1,5 @@
+# [![Author](https://img.shields.io/badge/Auther---ashalupreti)](https://img.shields.io/badge/Auther---ashalupreti?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
+
 ## Setting up graphics library (graphics.h) in Visual Studio Code (c++)
 
 ### Table Of Content
