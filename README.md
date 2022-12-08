@@ -9,7 +9,7 @@
 
 Example
 
-![graphics example](https://user-images.githubusercontent.com/90265701/206486439-24d61ddc-e6a0-4883-8490-6d1398edc526.png)
+(https://user-images.githubusercontent.com/90265701/206486439-24d61ddc-e6a0-4883-8490-6d1398edc526.png)
 
 ## General information
 
