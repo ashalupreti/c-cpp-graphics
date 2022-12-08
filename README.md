@@ -1,4 +1,4 @@
-# [![Author](https://img.shields.io/badge/Auther---Ashalupreti-blu)](https://img.shields.io/badge/Author--Ashal-blu?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
+# [![Author](https://img.shields.io/badge/Auther--Ashal-blu)](https://img.shields.io/badge/Author---Ashal-blu?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 
 ## Setting up graphics library (graphics.h) in Visual Studio Code (c++)
 
