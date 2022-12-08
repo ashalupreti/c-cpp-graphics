@@ -7,9 +7,9 @@
 - [Setup](#setup)
 - [.vscode config file](https://github.com/ullaskunder3/graphics.h-setup)
 
-My Workspace Dir and code example
+Example
 
-![graphics example](picture.png)
+![graphics example]([picture](https://user-images.githubusercontent.com/90265701/206486439-24d61ddc-e6a0-4883-8490-6d1398edc526.png)
 
 ## General information
 
