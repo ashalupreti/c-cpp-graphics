@@ -104,16 +104,16 @@ Running the file using command in termainl:
     //after u'll get example.exe run using command: .\example
 ```
 
-![image](https://user-images.githubusercontent.com/66258652/133919476-09225201-68a4-46b8-9220-1a6244a0488c.png)
+![image](https://user-images.githubusercontent.com/90265701/206496768-c83d2218-6ec0-48bc-95fe-53ea1cda2ac6.png)
 
-OR => 👌🤩
+OR
 
 - Just `Ctrl+Shift+B` to run the build task you will get the executable file in build folder
 
-![graphics example2](https://user-images.githubusercontent.com/66258652/133919626-3cd671e5-36e4-4315-b4bf-951563fc6913.png)
-![graphics example3](https://user-images.githubusercontent.com/66258652/133919648-c5745fd9-4fb4-49f5-9ca2-2d7b5f54fd85.png)
+![graphics example2](https://user-images.githubusercontent.com/90265701/206497821-cd08cfe8-898a-47c0-9b04-658959fa25de.png))
+![graphics example3](https://user-images.githubusercontent.com/90265701/206497861-077bb5c7-2f01-46e2-837d-ff0b94092aa9.png)
 
-Easy run template for graphics.h [=> repo](https://github.com/ullaskunder3/graphics.h-project-template)
+Easy run template for graphics.h [repo](https://github.com/ashalupreti/c-cpp-graphics)
 If your dont want to write that command again and again you can create [task.json](https://github.com/ullaskunder3/graphics.h-setup/tree/main/.vscode)
 
 ## Compiler:
