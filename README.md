@@ -5,16 +5,13 @@
 - [General info](#general-info)
 - [files](#files)
 - [Setup](#setup)
-- [.vscode config file](https://github.com/ullaskunder3/graphics.h-setup)
+- [.vscode config file](https://github.com/ashalupreti/c-cpp-graphics/tree/main/.vscode)
 
 Example
 
 ![graphics example](https://user-images.githubusercontent.com/90265701/206486439-24d61ddc-e6a0-4883-8490-6d1398edc526.png)
 
 ## General information
-
-It like a tradition to use Turbo in our Indian CS sector.
-Its because the syllabus haven't been changed since long time.
 
 The graphics. h header file provides access to a simple graphics library that makes it possible to draw lines, rectangles, ovals, arcs, polygons, images, and strings on a graphical window. The second step is initialize the graphics drivers on the computer using initgraph method of graphics. h library.
 
@@ -30,12 +27,6 @@ You could also try SFML. It has quite a following. You'll have a large community
 ---
 
 Now To set up graphics.h in vs code:
-
-alternative video instruction in `hindi` to setup graphics.h lib in vscode
-
-[<img src="https://i.imgur.com/P8xiypZ.png" alt="How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA " width="50%" />](https://www.youtube.com/embed/ijrNSHwXDAc "How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA")
-
-Alternative step wise instruction to setup MinGW along with graphics library (graphics.h)
 
 - ReadME [MinGW & graphics.h setup](https://github.com/sagargoswami2001/Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
 
@@ -112,7 +103,7 @@ turbographics
 Running the file using command in termainl:
 
 ```cmd
-    g++ -o example hut.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+    g++ -o example bar.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 
     //after u'll get example.exe run using command: .\example
 ```
@@ -128,23 +119,6 @@ OR => 👌🤩
 
 Easy run template for graphics.h [=> repo](https://github.com/ullaskunder3/graphics.h-project-template)
 If your dont want to write that command again and again you can create [task.json](https://github.com/ullaskunder3/graphics.h-setup/tree/main/.vscode)
-
-## Contributors ✨
-
-Thanks to these wonderful people:
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Prakash4844"><img src="https://avatars.githubusercontent.com/u/81550376?v=4" width="100px;" alt=""/><br /><sub><b>Prakash4844</b></sub></a><br />
-    <a href="#question-Prakash4844" title="Answering Questions">💬</a> <a href="https://github.com/ullaskunder3/Solution-to-graphics.h/commits?author=Prakash4844" title="Documentation">📖</a>
-     <td align="center"><a href="https://github.com/sagargoswami2001"><img src="https://avatars.githubusercontent.com/u/88379870?v=4" width="100px;" alt=""/><br /><sub><b>sagargoswami2001</b></sub></a><br />
-    <a href="#question-sagargoswami2001" title="Answering Questions">💬</a> <a href="https://github.com/ullaskunder3/Solution-to-graphics.h/commits?author=sagargoswami2001" title="Documentation">📖</a>
-  </tr>
-
-</table>
 
 ## Compiler:
 
