@@ -72,9 +72,7 @@ turbographics
     └───src
 ```
 
-- Create or Add `.vscode` folder in that workspace which will contain `task.json`, `c_cpp_properties.json`
-
-  - [Alternative] OR just get the template from the repo => [.vscode config ❤](https://github.com/ullaskunder3/graphics.h-project-template)
+- Get the template from the repo => [.vscode config](https://github.com/ashalupreti/c-cpp-graphics/tree/main/.vscode) which will contain `task.json`, `c_cpp_properties.json`
 
 ![image](https://user-images.githubusercontent.com/66258652/133919065-0f524b26-cb2f-4aef-a19c-367a329188cd.png)
 
