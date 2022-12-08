@@ -40,7 +40,6 @@ Get all the files needed `graphics.h`, `winbgim.h` and `libbgi.a`
 
 If you don't have MinGW installed get it from official and follow the steps.
 
-
 - Copy `graphics.h` and `winbgim.h` files to MinGW/`include` folder.
 
 location might be **("C:\MinGW\include\")**
@@ -55,9 +54,7 @@ Open Vs Code Smart way:
 
 ```bash
    mkdir C-Cpp-graphics
-s
    cd C-Cpp-graphics
-
    code .
 ```
 
