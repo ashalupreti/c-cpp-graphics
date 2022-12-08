@@ -77,7 +77,6 @@ C-Cpp-graphics
 ![image](https://user-images.githubusercontent.com/90265701/206495618-aeafc032-bd06-4111-b5ed-3e347ed88cfc.png)
 
 ```cpp
-//create a file name it example.cpp or any other name with .cpp extension
 
 #include <graphics.h>
     int main()
@@ -86,8 +85,7 @@ C-Cpp-graphics
         char data[] = "C:\\MinGW\\lib\\libbgi.a";
 
         initgraph(&gd, &gm, data);
-       //you can also pass NULL for third parameter if you did above setup successfully
-       //example: initgraph(&gd, &gm, NULL);
+
 
         circle(200, 200, 100);
         getch();
@@ -119,7 +117,9 @@ If your dont want to write that command again and again you can create [task.jso
 ## Compiler:
 
 - Setup MingW 32 compiler path in environment variables.
-- Insert graphics.h and winbgim.h header file in mingw include folder and libbgi.a file into lib sub folder of mingw folder that we've installed alreadey from the folder of this link
+- Insert graphics.h and winbgim.h header file from the [graphics file](https://github.com/ashalupreti/c-cpp-graphics/blob/main/graphics.h)
+  [graphics file](https://github.com/ashalupreti/c-cpp-graphics/blob/main/winbgim.h)
+  [graphics file](https://github.com/ashalupreti/c-cpp-graphics/blob/main/libbgi.a) in mingw include folder and libbgi.a file into lib sub folder of mingw folder that we've installed already
 
 ## Quick setup
 
