@@ -1,5 +1,9 @@
 # Graphics library setup
 
+## compiler:
+
+Setup MingW compiler of 32 bit for running graphics.h file
+
 ## Quick setup
 
 ```bash
