@@ -40,7 +40,6 @@ Get all the files needed `graphics.h`, `winbgim.h` and `libbgi.a`
 
 If you don't have MinGW installed get it from official and follow the steps.
 
-Know the difference between MINGW, Mingw-w64 && TDM [learn more go, go, go...](https://github.com/ullaskunder3/cpp-setup-vsCode#setup)
 
 - Copy `graphics.h` and `winbgim.h` files to MinGW/`include` folder.
 
@@ -55,8 +54,10 @@ Open Vs Code Smart way:
 - Select a folder and open Terminal
 
 ```bash
-   mkdir turbographics
-   cd turbographics
+   mkdir C-Cpp-graphics
+s
+   cd C-Cpp-graphics
+
    code .
 ```
 
@@ -72,7 +73,7 @@ C-Cpp-graphics
     └───src
 ```
 
-- Get the template from the repo => [.vscode config](https://github.com/ashalupreti/c-cpp-graphics/tree/main/.vscode) which will contain `task.json`, `c_cpp_properties.json`
+- Get the template from the repo [.vscode config](https://github.com/ashalupreti/c-cpp-graphics/tree/main/.vscode) which will contain `task.json`, `c_cpp_properties.json`
 
 ![image](https://user-images.githubusercontent.com/90265701/206495618-aeafc032-bd06-4111-b5ed-3e347ed88cfc.png)
 
