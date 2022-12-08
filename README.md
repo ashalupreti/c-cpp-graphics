@@ -1,6 +1,6 @@
 # Graphics library setup
 
-## compiler:
+## Compiler:
 
 Setup MingW compiler of 32 bit for running graphics.h file
 
