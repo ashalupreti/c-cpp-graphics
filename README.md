@@ -15,8 +15,6 @@ Example
 
 The graphics. h header file provides access to a simple graphics library that makes it possible to draw lines, rectangles, ovals, arcs, polygons, images, and strings on a graphical window. The second step is initialize the graphics drivers on the computer using initgraph method of graphics. h library.
 
-- To know More [Stanford](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1126/materials/cppdoc/graphics.html) !!old
-
 `<graphics.h> is very old library. It's better to use something that is new.`
 
 Trust Me **There are much better option**
@@ -129,16 +127,6 @@ If your dont want to write that command again and again you can create [task.jso
 
 ```bash
 git clone https://github.com/ashalupreti/c-cpp-graphics
-```
-
-## Directory look like
-
-```cmd
-  D:.
-├───.vscode
-└───Home
-    ├───build
-    └───src
 ```
 
 - Just `Ctrl+Shift+B` to run the build task you will get the executable file in build folder
