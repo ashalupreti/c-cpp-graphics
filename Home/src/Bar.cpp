@@ -48,5 +48,6 @@ int main()
     outtextxy(110, 370, "Years->");
     getch();
     closegraph();
+    
     return 0;
 }
